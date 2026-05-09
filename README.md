@@ -1,3 +1,4 @@
+[2018112000_최강희_개별연구최종보고서_ARMR.pdf](https://github.com/user-attachments/files/27550563/2018112000_._._ARMR.pdf)
 # AR/MR을 활용한 동물실험 관심 제고 콘텐츠 개발
 
 > HoloLens 2 기반 혼합현실(MR) 교육용 콘텐츠 프로젝트  
