@@ -136,50 +136,6 @@ Animator 상태 변경
 ```
 
 ---
-
-## 📥 설치 및 사용 방법
-
-### 필수 환경
-
-- **Unity 2020 LTS** 이상
-- **MRTK 2.8** 이상
-- **Visual Studio 2019** 이상
-- **Windows 10/11** SDK
-- **HoloLens 2** 디바이스 또는 **HoloLens 에뮬레이터**
-
-### 설치 단계
-
-1. **저장소 클론**
-   ```bash
-   git clone https://github.com/rkdgml3577/AR_MR_Project.git
-   cd AR_MR_Project
-   ```
-
-2. **Unity 프로젝트 열기**
-   - Unity Hub에서 프로젝트 폴더 선택
-   - 플랫폼을 **Universal Windows Platform (UWP)** 로 설정
-
-3. **MRTK 설치**
-   - Mixed Reality Toolkit 공식 설치 가이드 참고
-   - 필수 패키지 설치
-
-4. **빌드 및 배포**
-   - File → Build Settings
-   - Platform: **Universal Windows Platform** 선택
-   - 대상 디바이스: **HoloLens** 선택
-   - Build and Run
-
-### 사용 방법
-
-1. **HoloLens 2 착용**
-2. 앱 실행 및 공간 매핑 확인
-3. 손 제스처를 통한 홀로그램 상호작용
-   - 손으로 오브젝트 잡기
-   - 주사기 또는 당근으로 토끼와 상호작용
-4. 단계별 시나리오 진행
-
----
-
 ## 🎓 기대 효과
 
 ### 교육적 가치
@@ -221,27 +177,3 @@ Animator 상태 변경
 - [HoloLens 2 Developer Guide](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-the-hololens-shell)
 
 ---
-
-## 📄 라이선스
-
-이 프로젝트는 **2022-2학기 개별연구** 결과물입니다.  
-학업 및 연구 목적으로의 사용을 권장합니다.
-
----
-
-## 👨‍💻 작성자
-
-- **개발자**: rkdgml3577
-- **프로젝트**: AR/MR을 활용한 동물실험 관심 제고 콘텐츠 개발
-- **기간**: 2022학년도 2학기
-- **소속**: 컴퓨터과학 (CS)
-
----
-
-## 📧 문의
-
-프로젝트에 대한 질문이나 제안은 [GitHub Issues](https://github.com/rkdgml3577/AR_MR_Project/issues)를 통해 주시기 바랍니다.
-
----
-
-**Last Updated**: 2026-05-09
